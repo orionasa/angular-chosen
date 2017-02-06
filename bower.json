@@ -1,10 +1,10 @@
 {
   "name": "angular-chosen",
   "main": "angular-chosen.js",
-  "version": "1.0.2",
-  "homepage": "https://github.com/dbtek/angular-chosen",
+  "version": "1.0.3",
+  "homepage": "https://github.com/orionasa/angular-chosen",
   "authors": [
-    "İsmail Demirbilek <ce.demirbilek@gmail.com>"
+    "Abdussamed ASLAN <asa3dorion@gmail.com>"
   ],
   "description": "Angular directives for chosen",
   "keywords": [
@@ -14,6 +14,6 @@
   ],
   "license": "MIT",
   "dependencies": {
-    "angular": "~1.2.14"
+    "angular": "~1.5.8"
   }
 }

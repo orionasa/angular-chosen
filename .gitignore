@@ -1,0 +1,9 @@
+node_modules
+.tmp
+bower_components
+Gruntfile.js
+Gruntfile.js.map
+.cache
+.idea
+.idea/*
+*.DS_Store

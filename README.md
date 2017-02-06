@@ -3,7 +3,7 @@ angular-chosen
 
 AngularJS Chosen directive
 
-Based on [localytics' angular-chosen](https://github.com/localytics/angular-chosen). Provides some extra directives such as accessing search input value within scope and passing scope variable as placeholder.
+Based on [localytics' angular-chosen](https://github.com/localytics/angular-chosen) and 'angular-chosen'(https://github.com/dbtek/angular-chosen). Provides some extra directives such as accessing search input value within scope and passing scope variable as placeholder.
 
 This directive brings the [Chosen](http://harvesthq.github.com/chosen/) jQuery plugin
 into AngularJS with ngModel and ngOptions integration.
