@@ -9,11 +9,11 @@ This directive brings the [Chosen](http://harvesthq.github.com/chosen/) jQuery p
 into AngularJS with ngModel and ngOptions integration.
 
 To use, include "ngChosen" as a dependency in your Angular module.  You can now
-use the "chosen" directive as an attribute on any select element.  Angular version 1.2+ is required.
+use the "chosen" directive as an attribute on any select element.  Angular version 1.5+ is required.
 
 # Installation
 
-    $ bower install angular-ngchosen
+    $ bower install https://github.com/orionasa/angular-chosen.git#1.0.3
 
 # Features
   * Works with `ngModel` and `ngOptions`
